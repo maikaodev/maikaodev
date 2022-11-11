@@ -16,7 +16,7 @@
   [Link do repositório](https://github.com/maikaodev/music_player) </br>
   
   - Clone do GitHub : Projeto feito com Vue.js consumindo a API do GitHub. </br>
-  [Link da web](https://clone-github-maikaodev.netlify.app/) </br>
+  [Link](https://clone-github-maikaodev.netlify.app/) </br>
   [Link do repositório](https://github.com/maikaodev/clone-github-vuejs) </br>
 
   - Voice to text : Projeto feito HTML, CSS e JavaScript. </br>
