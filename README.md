@@ -27,8 +27,6 @@
   [Link](https://maikaodev-consulta-cep.netlify.app/) </br>
   [Link do repositório](https://github.com/maikaodev/consulta_cep) </br>
   
-  ## Em desenvolvimento 🚧
-  
   - Consulta CEP : Projeto feito com Next.js, React.js. A ideia é trabalhar conceitos como SSR e serverless. </br>
   [Link](https://encontreseuendereco.netlify.app) </br>
   [Link do repositório](https://github.com/maikaodev/zipcode) </br>
