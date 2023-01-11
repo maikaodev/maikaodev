@@ -31,6 +31,13 @@
   [Link](https://encontreseuendereco.netlify.app) </br>
   [Link do repositório](https://github.com/maikaodev/zipcode) </br>
   
+  
+   # Em desenvolvimento 🚧
+  
+  - MaikãoFlix : Projeto em desenvolvimento. O projeto consome uma [API](https://developers.themoviedb.org/3) onde obtém todo tipo de dado relacionado a filmes e séries.  </br>
+  [Link](https://maikaoflix.netlify.app/?page=1) </br>
+  [Link do repositório](https://github.com/maikaodev/maikao_flix) </br>
+  
 <hr/>
 
 <div align="center">
