@@ -41,31 +41,33 @@
 <hr/>
 
 <div align="center">
+   
+<img align="center" alt="maikaodev-JavaScript" height="60"  src="https://user-images.githubusercontent.com/82960620/192591088-fe3af572-0982-48c9-879b-81943b76f600.svg">
+    
+<img align="center" alt="maikaodev-TypeScript" height="60" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg">
   
+<img align="center" alt="maikaodev-React.js" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  
+<img align="center" alt="maikaodev-Next.js" height="60" src="https://images.ctfassets.net/e5382hct74si/2LTO3hWQ4NdnedxuYZfwxa/74c017aa157d7986479f1e940448ef51/Logotype.png">
+  
+<img align="center" alt="maikaodev-Vue.js" height="60"  src="https://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_400x400.jpg">
+  
+<img align="center" alt="maikaodev-Nuxt.js" height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png">
 
+<img align="center" alt="maikaodev-Jest" height="60" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg">  
   
-  <img align="center" alt="maikaodev-JavaScript" height="70"  src="https://user-images.githubusercontent.com/82960620/192591088-fe3af572-0982-48c9-879b-81943b76f600.svg">
+<img align="center" alt="maikaodev-Testing-Library" height="60" src="https://testing-library.com/img/octopus-128x128.png">
   
+<img align="center" alt="maikaodev-Cypress.io" height="60" src="https://www.finsmes.com/wp-content/uploads/2020/12/cypress.jpg">
   
-<img align="center" alt="maikaodev-typescript" height="70" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg">
+<img align="center" alt="maikaodev-MSW" height="60" src="https://raw.githubusercontent.com/mswjs/msw/HEAD/media/msw-logo.svg">
   
-<img align="center" alt="maikaodev-React.js" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+<img align="center" alt="maikaodev-BootStrap" height="60" src="https://user-images.githubusercontent.com/82960620/192592292-ebdc041a-f7df-4dcb-8916-76f9f53540a9.svg">
   
-<img align="center" alt="maikaodev-Next.js" height="70" src="https://images.ctfassets.net/e5382hct74si/2LTO3hWQ4NdnedxuYZfwxa/74c017aa157d7986479f1e940448ef51/Logotype.png">
-  
-<img align="center" alt="maikaodev-Vue.js" height="70"  src="https://user-images.githubusercontent.com/82960620/192590752-e4f6a314-9759-4a28-87cb-b5f72a85e793.svg">
-  
- <img align="center" alt="maikaodev-Nuxt.js" height="70" src="https://user-images.githubusercontent.com/82960620/192590378-9c84c3c7-1474-4a8a-bf32-204e6bfae685.svg">
+<img align="center" alt="maikaodev-Sass" height="60" src="https://user-images.githubusercontent.com/82960620/192591238-2d642496-1431-40c6-86b1-9847b9f870c4.svg">
+ 
+<img align="center" alt="maikaodev-Tailwindcss" height="60" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png">  
 
-<img align="center" alt="maikaodev-Sass" height="70" src="https://user-images.githubusercontent.com/82960620/192591238-2d642496-1431-40c6-86b1-9847b9f870c4.svg">
-  
-<img align="center" alt="maikaodev-tailwindcss" height="70" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png">
-  
-<img align="center" alt="maikaodev-bootstrap" height="70" src="https://user-images.githubusercontent.com/82960620/192592292-ebdc041a-f7df-4dcb-8916-76f9f53540a9.svg">
-  
-<img align="center" alt="maikaodev-css3" height="70" src="https://user-images.githubusercontent.com/82960620/192593526-3d540d7b-a0b1-4196-a2b9-fb17787db6cb.svg">
-  
-<img align="center" alt="maikaodev-html5" height="70" src="https://user-images.githubusercontent.com/82960620/192593468-e571e409-e27e-49dd-85da-014bb7865836.svg">
 
 </div>
 
