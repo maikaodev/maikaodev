@@ -1,12 +1,13 @@
 <h1 align="center"> Olá, eu sou o maikãodev 😎 </h1>
 
-<div align="center">
-  <a href="https://github.com/maikaodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikaodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikaodev&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">    
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=maikaodev&theme=nightowl&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
 </div>
 
 <hr/>
+  
 
 
 # PROJETOS 
