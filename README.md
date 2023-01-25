@@ -11,33 +11,30 @@
 
 
 # PROJETOS 
-  
-  - Reprodutor de música : Projeto feito com HTML, CSS, JavaScript e TypeScript. </br>
-  [Link](https://maikadev-musicplayer.netlify.app/) </br>
-  [Link do repositório](https://github.com/maikaodev/music_player) </br>
+
+ - Consulta CEP : Projeto feito com Next.js, React.js. A ideia é trabalhar conceitos como SSR e serverless. </br>
+  [Website](https://encontreseuendereco.netlify.app) </br>
+  [Repositório](https://github.com/maikaodev/zipcode) </br>
   
   - Clone do GitHub : Projeto feito com Vue.js consumindo a API do GitHub. </br>
-  [Link](https://clone-github-maikaodev.netlify.app/) </br>
-  [Link do repositório](https://github.com/maikaodev/clone-github-vuejs) </br>
-
+  [Website](https://clone-github-maikaodev.netlify.app/) </br>
+  [Repositório](https://github.com/maikaodev/clone-github-vuejs) </br>
+  
+  - Reprodutor de música : Projeto feito com HTML, CSS, JavaScript e TypeScript. </br>
+  [Website](https://maikadev-musicplayer.netlify.app/) </br>
+  [Repositório](https://github.com/maikaodev/music_player) </br>
+  
   - Voice to text : Projeto feito HTML, CSS e JavaScript. </br>
-  [Link](https://voicetotext-maikaodev.netlify.app/) </br>
-  [Link do repositório](https://github.com/maikaodev/voice_to_text) </br>
-  
-  - Consulta CEP : Projeto feito com Vue.js, Jest, Vitest ,Sass, Testing Library, Cypress. O endpoint foi desenvolvido com Node.js em um [repositório](https://github.com/maikaodev/consulta_cep_api) seperado. </br>
-  [Link](https://maikaodev-consulta-cep.netlify.app/) </br>
-  [Link do repositório](https://github.com/maikaodev/consulta_cep) </br>
-  
-  - Consulta CEP : Projeto feito com Next.js, React.js. A ideia é trabalhar conceitos como SSR e serverless. </br>
-  [Link](https://encontreseuendereco.netlify.app) </br>
-  [Link do repositório](https://github.com/maikaodev/zipcode) </br>
+  [Website](https://voicetotext-maikaodev.netlify.app/) </br>
+  [Repositório](https://github.com/maikaodev/voice_to_text) </br>
+ 
   
   
    # Em desenvolvimento 🚧
   
   - MaikãoFlix : Projeto em desenvolvimento. O projeto consome uma [API](https://developers.themoviedb.org/3) onde obtém todo tipo de dado relacionado a filmes e séries.  </br>
-  [Link](https://maikaoflix.netlify.app/?page=1) </br>
-  [Link do repositório](https://github.com/maikaodev/maikao_flix) </br>
+  [Website](https://maikaoflix.netlify.app/?page=1) </br>
+  [Repositório](https://github.com/maikaodev/maikao_flix) </br>
   
 <hr/>
 
