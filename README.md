@@ -27,10 +27,6 @@
   - Voice to text : Projeto feito HTML, CSS e JavaScript. </br>
   [Website](https://voicetotext-maikaodev.netlify.app/) </br>
   [Repositório](https://github.com/maikaodev/voice_to_text) </br>
- 
-  
-  
-   # Em desenvolvimento 🚧
   
   - MaikãoFlix : Projeto em desenvolvimento. O projeto consome uma [API](https://developers.themoviedb.org/3) onde obtém todo tipo de dado relacionado a filmes e séries.  </br>
   [Website](https://maikaoflix.netlify.app/?page=1) </br>
