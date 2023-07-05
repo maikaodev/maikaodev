@@ -11,11 +11,9 @@
 # SOBRE
 
   
-  Sou desenvolvedor front-end, estudo programação faz dois anos. Tenho projetos que consomem API, faço testes em minhas aplicações, tanto teste unitário quanto teste e2e, já desenvolvi uma API e utilizo typeScript nas aplicações.
+Sou desenvolvedor frontend com mais de dois anos de experiência. Atualmente, estou explorando o uso do React Native para criar aplicativos e figma para prototipar meus projetos.
 
-Ainda não possuo formação na área de T.I, porém estou me preparando para cursar o segundo grau em sistema de informação na federal.
-
-Atualmente estou explorando React Native e aprofundando meu conhecimento em frontend.
+Ao trabalhar em projetos, além de escrever código limpo e flexível, eu também priorizo testar minhas aplicações para garantir a qualidade do produto final.
 
 Competências:
 - JavaScript;
