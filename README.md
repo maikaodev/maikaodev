@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre:
 Desenvolvedor frontend com mais de 2 anos de experiência em programação.<br>Tenho experiência em ferramentas de teste, incluindo Jest e Testing Library, para garantir a qualidade do código e das aplicações. Também estou familiarizado com Vitest, Cypress.io e MSW (Mock) para testes abrangentes em diferentes contextos.<br><br>Meu foco é construir interfaces interativas e responsivas, aplicando as melhores práticas de clean code e design patterns para garantir uma arquitetura robusta. Tenho experiência em metodologias ágeis, como Scrum e Kanban, e sou adepto do versionamento de código utilizando Git e GitHub.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maikaodev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maikaodev) 
 
 # 💻 Tech Stack:
